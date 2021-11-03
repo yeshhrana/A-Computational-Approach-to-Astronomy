@@ -1,2 +1,2 @@
-# The-Astronomy-Toolkit
-A scalable toolkit for modern astronomy implemented in Python
+# A-Computational-Study-of-Astrophysics
+A scalable toolkit for modern astrophysics implemented in Python
