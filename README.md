@@ -1,2 +1,2 @@
-# A-Computational-Approach-to-Astrophysics
-A scalable toolkit for modern astrophysics implemented in Python
+# A-Computational-Approach-to-Astronomy
+A scalable toolkit for modern astronomy implemented in Python
